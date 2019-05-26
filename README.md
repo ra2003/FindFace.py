@@ -13,12 +13,23 @@
   * The picture of who we are trying to identify (duh).
 
 ### Basically next steps are self explanatory if you have minimum python experience.
-  
+
+# Example
+
 ## Input 
 ![alt text](./unknown/group.jpg)
 
 ## Output
 
 ![alt text](./identified.jpg)
+
+
+## Input 
+![alt text](./unknown/s8.jpg)
+
+## Output
+![alt text](./identified s8.jpg)
+
+
 
 #### P.S: That's how I named them. :D
