@@ -33,9 +33,10 @@
 ## Output
 ![alt text](./identifieds8.jpg)
 
-#### If you zoom and see, Theon Greyjoy and Euron Greyrjoy will be identified as Euron. This is because those both actors shares some resemblance. 
+#### If you zoom and see, Theon Greyjoy and Euron Greyrjoy will be identified as Euron. This is because those both actors shares some resemblance and the program can't able to differentiate between them.
+***
 
-### The Accuracy of this model is 95%.
+# The Accuracy of this model is 95%.
 
 
 
