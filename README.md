@@ -24,12 +24,18 @@
 ![alt text](./identified.jpg)
 
 
+#### P.S: That's how I named them. :D
+
+
 ## Input 
 ![alt text](./unknown/s8.jpg)
 
 ## Output
 ![alt text](./identifieds8.jpg)
 
+#### If you zoom and see, Theon Greyjoy and Euron Greyrjoy will be identified as Euron. This is because those both actors shares some resemblance. 
+
+### The Accuracy of this model is 95%.
 
 
-#### P.S: That's how I named them. :D
+
