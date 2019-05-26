@@ -28,7 +28,7 @@
 ![alt text](./unknown/s8.jpg)
 
 ## Output
-![alt text](./identified s8.jpg)
+![alt text](./identifieds8.jpg)
 
 
 
