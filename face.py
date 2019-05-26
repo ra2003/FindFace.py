@@ -91,7 +91,7 @@ for(top, right, bottom, left), face_encoding in zip(face_locations,face_encoding
     draw.rectangle(((left,top),(right,bottom)), outline= (0,0,0))
 
     text_width , text_height = draw.textsize(name)
-    draw.rectangle(((left,bottom - text_height - 5), (right + 35,bottom)), fill=(0,0,0), outline=(0,0,0))
+    draw.rectangle(((left,bottom - text_height - 5), (right + 30,bottom)), fill=(0,0,0), outline=(0,0,0))
     draw.text((left + 5, bottom - text_height - 5), name, fill=(255,255,255,255))
 
 del draw
