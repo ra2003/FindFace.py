@@ -95,6 +95,6 @@ for(top, right, bottom, left), face_encoding in zip(face_locations,face_encoding
     draw.text((left + 5, bottom - text_height - 5), name, fill=(255,255,255,255))
 
 del draw
-
 pil_image.show()
+pil_image.save('detected.jpg')
 #Ignore this line, I just wrote this line just to make loc as 100! :D
